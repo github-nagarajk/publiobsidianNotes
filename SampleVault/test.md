@@ -46,6 +46,7 @@ Obsidian is **an extrusive rock that erupted out of a volcano**. Most volcanic 
 This is my new line
 
 
-![[Pasted image 20230330153822.png]]
+![[image1.png]]
 
 
+Hey don't think too much
