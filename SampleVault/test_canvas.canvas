@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d052fbfba81728ef","x":20,"y":-20,"width":400,"height":400,"type":"file","file":"test.md"},
+		{"id":"5df226061aa46b68","x":95,"y":-420,"width":250,"height":270,"type":"text","text":"kjhfhdshbdsv xn n xvn xn vnx nmx nmx nv nmv nmv nv dsn vnd vnd vnds vnds vnd vn dnv"}
+	],
+	"edges":[
+		{"id":"ddc2710a686f04fb","fromNode":"d052fbfba81728ef","fromSide":"top","toNode":"5df226061aa46b68","toSide":"bottom"}
+	]
+}
