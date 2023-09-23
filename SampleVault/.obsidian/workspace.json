@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remote-obsidian/ObsidianSyncGithub/Token.md",
+                "file": "remote-obsidian/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remote-obsidian/ObsidianSyncGithub/Token.md",
+                "file": "remote-obsidian/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remote-obsidian/ObsidianSyncGithub/Token.md",
+                "file": "remote-obsidian/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remote-obsidian/ObsidianSyncGithub/Token.md"
+                "file": "remote-obsidian/README.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   },
   "active": "4ef64fa4e4f8d556",
   "lastOpenFiles": [
+    "remote-obsidian/ObsidianSyncGithub/Token.md",
     "remote-obsidian/Draw.io flows.md",
     "remote-obsidian/README.md",
     "remote-obsidian/Logstash/Usecase/Usecase 2.md",
@@ -226,7 +227,6 @@
     "remote-obsidian/ElasticSearch/Errors in elasticserach.md",
     "remote-obsidian/ElasticSearch/Images.md",
     "remote-obsidian/ElasticSearch/Basics.md",
-    "remote-obsidian/ObsidianSyncGithub/Token.md",
     "infokalashGithub/test.md",
     "infokalashGithub",
     "remote-obsidian/Github_password_token/Untitled.md",
