@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remote-obsidian/Logstash/Usecase/Usecase 2.md",
+                "file": "remote-obsidian/ObsidianSyncGithub/Token.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remote-obsidian/Logstash/Usecase/Usecase 2.md",
+                "file": "remote-obsidian/ObsidianSyncGithub/Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remote-obsidian/Logstash/Usecase/Usecase 2.md",
+                "file": "remote-obsidian/ObsidianSyncGithub/Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remote-obsidian/Logstash/Usecase/Usecase 2.md"
+                "file": "remote-obsidian/ObsidianSyncGithub/Token.md"
               }
             }
           },
@@ -216,6 +216,9 @@
   },
   "active": "4ef64fa4e4f8d556",
   "lastOpenFiles": [
+    "remote-obsidian/Draw.io flows.md",
+    "remote-obsidian/README.md",
+    "remote-obsidian/Logstash/Usecase/Usecase 2.md",
     "remote-obsidian/Logstash/Usecase/Springboot.md",
     "remote-obsidian/ElasticSearch/Tasks.md",
     "remote-obsidian/ElasticSearch/curl using  Elasticsearch REST API.md",
@@ -223,7 +226,6 @@
     "remote-obsidian/ElasticSearch/Errors in elasticserach.md",
     "remote-obsidian/ElasticSearch/Images.md",
     "remote-obsidian/ElasticSearch/Basics.md",
-    "remote-obsidian/README.md",
     "remote-obsidian/ObsidianSyncGithub/Token.md",
     "infokalashGithub/test.md",
     "infokalashGithub",
@@ -234,7 +236,6 @@
     "remote-obsidian/Test.md",
     "remote-obsidian",
     "Pasted image 20230922125113.png",
-    "remote-obsidian/Logstash/Usecase/Usecase 2.md",
     "remote-obsidian/ObsidianSyncGithub",
     "Pasted image 20230921190504.png",
     "Pasted image 20230921190121.png",
@@ -254,7 +255,6 @@
     "remote-obsidian/Logstash/To check the logs.md",
     "remote-obsidian/Logstash/Untitled.canvas",
     "remote-obsidian/Logstash/Untitled 1.canvas",
-    "remote-obsidian/Logstash/Usefull.md",
     "remote-obsidian/Logstash/Usecase",
     "Pasted image 20230921131155.png",
     "Pasted image 20230921124453.png",
