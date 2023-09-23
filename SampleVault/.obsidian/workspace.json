@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remote-obsidian/README.md",
+                "file": "My_new_remote/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remote-obsidian/README.md",
+                "file": "My_new_remote/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remote-obsidian/README.md",
+                "file": "My_new_remote/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remote-obsidian/README.md"
+                "file": "My_new_remote/README.md"
               }
             }
           },
@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,11 +213,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ef64fa4e4f8d556",
+  "active": "3d62ecacebfe93b8",
   "lastOpenFiles": [
     "remote-obsidian/ObsidianSyncGithub/Token.md",
-    "remote-obsidian/Draw.io flows.md",
+    "My_new_remote/README.md",
+    "My_new_remote",
+    "remote-obsidian/Github_password_token/Untitled.md",
     "remote-obsidian/README.md",
+    "remote-obsidian/Draw.io flows.md",
     "remote-obsidian/Logstash/Usecase/Usecase 2.md",
     "remote-obsidian/Logstash/Usecase/Springboot.md",
     "remote-obsidian/ElasticSearch/Tasks.md",
@@ -229,7 +231,6 @@
     "remote-obsidian/ElasticSearch/Basics.md",
     "infokalashGithub/test.md",
     "infokalashGithub",
-    "remote-obsidian/Github_password_token/Untitled.md",
     "Pasted image 20230922132713.png",
     "remote-obsidian/Github_password_token",
     "Pasted image 20230922131442.png",
@@ -252,7 +253,6 @@
     "remote-obsidian/ElasticSearch/Queries_with_example.md",
     "remote-obsidian/Logstash/IBM.md",
     "remote-obsidian/Logstash/springboot log.md",
-    "remote-obsidian/Logstash/To check the logs.md",
     "remote-obsidian/Logstash/Untitled.canvas",
     "remote-obsidian/Logstash/Untitled 1.canvas",
     "remote-obsidian/Logstash/Usecase",
@@ -264,7 +264,6 @@
     "remote-obsidian/ElasticSearch/Untitled",
     "remote-obsidian/Linux_commands",
     "test_canvas.canvas",
-    "remote-obsidian/Logstash",
-    "remote-obsidian/ElasticSearch"
+    "remote-obsidian/Logstash"
   ]
 }
