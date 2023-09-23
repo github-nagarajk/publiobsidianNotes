@@ -25,14 +25,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "test2.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "331daa0907730ed7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image1.png"
+              }
+            }
+          },
+          {
+            "id": "4ef64fa4e4f8d556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remote-obsidian/Logstash/Usecase/Usecase 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cb85dd84fdb4b18",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "remote-obsidian/Terminology.canvas",
+                "viewState": {
+                  "x": 74.4471390144209,
+                  "y": -10.68961556292301,
+                  "zoom": -0.04877642473285966
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,12 +114,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4c11127bbeff43a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 334.5
   },
   "right": {
     "id": "50733512a48f676b",
@@ -98,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "remote-obsidian/Logstash/Usecase/Usecase 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "remote-obsidian/Logstash/Usecase/Usecase 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +183,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "remote-obsidian/Logstash/Usecase/Usecase 2.md"
+              }
+            }
+          },
+          {
+            "id": "bb6e110b3fe7aeef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -159,12 +214,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eeddbd476c867aaf",
+  "active": "4ef64fa4e4f8d556",
   "lastOpenFiles": [
-    "unix_tutorial.pdf",
-    "image1.png",
-    "test.md",
+    "remote-obsidian/Logstash/Usecase/Springboot.md",
+    "remote-obsidian/ElasticSearch/Tasks.md",
+    "remote-obsidian/ElasticSearch/curl using  Elasticsearch REST API.md",
+    "remote-obsidian/ElasticSearch/ElasticSearch_installation.md",
+    "remote-obsidian/ElasticSearch/Errors in elasticserach.md",
+    "remote-obsidian/ElasticSearch/Images.md",
+    "remote-obsidian/ElasticSearch/Basics.md",
+    "remote-obsidian/README.md",
+    "remote-obsidian/ObsidianSyncGithub/Token.md",
+    "infokalashGithub/test.md",
+    "infokalashGithub",
+    "remote-obsidian/Github_password_token/Untitled.md",
+    "Pasted image 20230922132713.png",
+    "remote-obsidian/Github_password_token",
+    "Pasted image 20230922131442.png",
+    "remote-obsidian/Test.md",
+    "remote-obsidian",
+    "Pasted image 20230922125113.png",
+    "remote-obsidian/Logstash/Usecase/Usecase 2.md",
+    "remote-obsidian/ObsidianSyncGithub",
+    "Pasted image 20230921190504.png",
+    "Pasted image 20230921190121.png",
+    "Pasted image 20230921190047.png",
+    "remote-obsidian/Logstash/Architecture.md",
+    "remote-obsidian/Logstash/Run logstash continues.md",
+    "remote-obsidian/Logstash/mysql to elk.md",
+    "remote-obsidian/Logstash/microsoft notes.md",
+    "remote-obsidian/Logstash/Logstash_notes.md",
+    "remote-obsidian/Logstash/Logstash features.md",
+    "remote-obsidian/Terminology.canvas",
+    "remote-obsidian/Logstash/filter/Mutate filter.md",
+    "remote-obsidian/ElasticSearch/Queries.md",
+    "remote-obsidian/ElasticSearch/Queries_with_example.md",
+    "remote-obsidian/Logstash/IBM.md",
+    "remote-obsidian/Logstash/springboot log.md",
+    "remote-obsidian/Logstash/To check the logs.md",
+    "remote-obsidian/Logstash/Untitled.canvas",
+    "remote-obsidian/Logstash/Untitled 1.canvas",
+    "remote-obsidian/Logstash/Usefull.md",
+    "remote-obsidian/Logstash/Usecase",
+    "Pasted image 20230921131155.png",
+    "Pasted image 20230921124453.png",
+    "Pasted image 20230920192307.png",
+    "Pasted image 20230920191303.png",
+    "remote-obsidian/Logstash/filter",
+    "remote-obsidian/ElasticSearch/Untitled",
+    "remote-obsidian/Linux_commands",
     "test_canvas.canvas",
-    "test2.md"
+    "remote-obsidian/Logstash",
+    "remote-obsidian/ElasticSearch"
   ]
 }
