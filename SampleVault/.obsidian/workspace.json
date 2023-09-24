@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My_new_remote/README.md",
+                "file": "remote-obsidian/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,14 +143,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My_new_remote/README.md",
+                "file": "remote-obsidian/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My_new_remote/README.md",
+                "file": "remote-obsidian/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My_new_remote/README.md"
+                "file": "remote-obsidian/README.md"
               }
             }
           },
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,13 +214,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d62ecacebfe93b8",
+  "active": "4ef64fa4e4f8d556",
   "lastOpenFiles": [
-    "remote-obsidian/ObsidianSyncGithub/Token.md",
     "My_new_remote/README.md",
+    "remote-obsidian/README.md",
+    "remote-obsidian/ObsidianSyncGithub/Token.md",
     "My_new_remote",
     "remote-obsidian/Github_password_token/Untitled.md",
-    "remote-obsidian/README.md",
     "remote-obsidian/Draw.io flows.md",
     "remote-obsidian/Logstash/Usecase/Usecase 2.md",
     "remote-obsidian/Logstash/Usecase/Springboot.md",
